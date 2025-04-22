@@ -40,10 +40,9 @@ A apresentação da Sprint 1 em vídeo por ser acessada por [aqui!]()
 
 <div>
 <span  id="backlogs">
-<h2>
-Backlog da Spint 2:
-</h2>
-  <div align="center">
+  
+<h2>Backlog da Sprint 2:</h2>
+<div align="center">
    
 |item  | Funcionalidade                     | Descrição                                                                                   | Prioridade |
 |----------|------------------------------------|---------------------------------------------------------------------------------------------|------------|
@@ -65,7 +64,7 @@ Backlog da Spint 2:
 ##### [🔝 Voltar ao topo ](#topo)
 <br>
 
-<div align="center">
+<div>
 
 | Função          | Nome                          | Links                                                                                                                         |
 |-----------------|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
