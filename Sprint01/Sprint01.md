@@ -1,7 +1,7 @@
 
-# Zen-Tech - Documentação
-<div>
-<img style="vertical-align: middle" alt="logo-Zen-Tech" src="../zen tech logo.webp">
+<h2>Zen-Tech - Documentação</h2>
+<div align = "center">
+<img alt="logo-Zen-Tech" src="../zen tech logo.webp" height="400px" width="400px">
 </div>
 
 <span  id="topo">
@@ -79,9 +79,9 @@ Backlog da Sprint 1:
 
   </div>
 </div>
+<br>
 
-
-<div align="center">
+<div>
 
 | Função          | Nome                          | Links                                                                                                                         |
 |-----------------|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
@@ -95,14 +95,10 @@ Backlog da Sprint 1:
 </div>
 
 <div>
- <h2>
- Burndown 
- </h2>
- <h3>
- Sprint 1
- </h3>
-<div align="center">
-<img style="vertical-align: middle" alt="Burndown---Sprint-1-(2)" src="../Burndown - Sprint 1 (2).png">
-</div>
+  <h2>Burndown</h2>
+  <h3> Sprint 1</h3>
+  <div align="center">
+    <img style="vertical-align: middle" src="../../Burndown.html">
+  </div>
 </div>
 
