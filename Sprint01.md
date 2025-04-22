@@ -56,16 +56,9 @@ Backlog da Spint 1:
 | RNF01 | **Tela de Gráficos e Estatísticas**| Exibir dados meteorológicos em gráficos interativos.                | MÉDIA      |
 | RP02 | **Infraestrutura Front-end**       | Configurar projeto React TypeScript, rotas e estrutura de componentes.                       | MÉDIA      |
 | RP02 | **Documentação no Github**       | Criar documentação do projeto com grafico bundown e backlog                       | MÉDIA      |
-| RNF02 | **Validação Responsiva**           | Garantir que as telas tenham layout responsivo em diferentes dispositivos.                   | BAIXA      |
-| RF02 | **Histórico de Dados (Tabular)**            | Exibir registros históricos de cada estação em forma de tabela. | ALTA       |
 | RF03 | **Gráficos de Parâmetros**                  | Mostrar gráficos interativos dos parâmetros de uma estação.    | ALTA       |
 | RF04 | **Gráficos Comparativos**                   | Comparar o mesmo parâmetro entre diferentes estações.          | MÉDIA      |
 | RF05 | **Download de Dados (CSV)**                 | Permitir a exportação dos dados em formato CSV.                | ALTA       |
-|  | **Sistema de Alertas e Notícias**           | Implementar lógica de alertas e exibi-los na home page (agora painel de notícias).  | ALTA       |
-|  | **Refinamento e Integração Final**          | Ajustar integrações entre front-end e back-end e corrigir bugs.    | MÉDIA      |
-| RP02| **Documentação Final**                      | Consolidar a documentação do projeto.     | MÉDIA      |
-|  | **Integrar Chatbot**                       | Integrar Chatbot para geração de alertas  | ALTA       |
-
   </div>
 </div>
 
