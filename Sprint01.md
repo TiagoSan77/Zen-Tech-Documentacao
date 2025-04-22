@@ -30,6 +30,12 @@ Legenda:
 - [-] **Não iniciado**
 
 A apresentação da Sprint 1 em vídeo por ser acessada por [aqui!]() 
+<br>
+
+<h3>Gif sprint 1:</h3>
+<img src='./imagens/gif.gif' height='200px' width='400px'>
+
+
 
 <br>
 
