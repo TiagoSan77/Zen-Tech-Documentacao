@@ -1,6 +1,6 @@
 # Zen-Tech - Documentação
 <div align="center">
-<img  alt="logo-Zen-Tech" src="./zen tech logo.webp" height="400px" width="400px">
+<img  alt="logo-Zen-Tech" src="./imagens/zen tech logo.webp" height="400px" width="400px">
 </div>
 
 <span  id="topo">
