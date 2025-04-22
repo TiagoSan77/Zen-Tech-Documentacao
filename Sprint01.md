@@ -63,7 +63,7 @@ Backlog da Spint 1:
 </div>
 
 
-<br>
+
 ##### [🔝 Voltar ao topo ](#topo)
 <br>
 
