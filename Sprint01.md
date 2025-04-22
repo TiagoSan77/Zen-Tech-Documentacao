@@ -82,6 +82,6 @@ Backlog da Spint 1:
 
 <div>
   <h2>Burndown Sprint 01</h2>
-  <img style="vertical-align: middle" alt="Burndown---Sprint-1-(2)" src="./Burndown.png">
+  <img alt="Burndown---Sprint-1-(2)" src="./imagens/Burndown.png">
 </div>
 
