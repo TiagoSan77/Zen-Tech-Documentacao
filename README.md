@@ -221,15 +221,5 @@ Nossa Equipe :
 
 </div>
 
-<div>
- <h2>
- Burndown 
- </h2>
- <h3>
- Sprint 1
- </h3>
-<div align="center">
-<img style="vertical-align: middle" alt="Burndown---Sprint-1-(2)" src="./Burndown - Sprint 1 (2).png">
-</div>
 </div>
 
